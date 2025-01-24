@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Parth N. Kheni</h1>
 <h3 align="center">Student at Boston University majoring in Computer Engineering with a Concentration in Machine Learning</h3>
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **C++, Java, and Linux**
 
 - 📫 How to reach me **pkheni@bu.edu**
 
